@@ -1,7 +1,5 @@
 package com.example.androidtestingexample
 
-import androidx.core.text.isDigitsOnly
-
 object RegistrationUtil {
 
     private val existingUsers = listOf("Debu", "Sreya", "Joy")
